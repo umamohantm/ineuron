@@ -1,1 +1,1 @@
-# ineuron.ai
+# ineuron assignments
